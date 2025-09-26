@@ -1,0 +1,8 @@
+Arth Emann C. Ecal
+BSIT - 3C (IT373, Assignment 2)
+
+Python version: 3.13.7
+Venv active: Yes
+Django version: 5.2.6
+Runserver working: Yes
+Git remote: https://github.com/arthemannecal-lgtm/IT373-Week1-Django-Basic.git
